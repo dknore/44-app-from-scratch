@@ -16,7 +16,7 @@ common. The user must identify what symbol is contained in both sets and
 receive some reward in the form of a score.
 
 * Practice identifying isolated features of an app.
-* Practice building isolated implementations of of different features.
+* Practice building isolated implementations of different features.
 * Practice wiring isolated features together after they've been individually
   developed.
 * Practice keeping a clear seperation between "business logic" and
